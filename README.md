@@ -1,5 +1,11 @@
 # RSA_Encryption
 A program implementing Digital Signature using 30 bit RSA encrypting algorithm in C++
+
+Message Input으로 1234를 입력한 실행 결과는 다음과 같다.
+
+<image src="https://user-images.githubusercontent.com/58541068/107851152-1642a100-6e4b-11eb-84e1-de9a73931008.png"></image>
+
+
 30 bit의 RSA 암호 알고리즘과 RSA 기반의 Digital Signature을 구현하는 프로그램을 만들었다.
 구현 환경은 Visual Studio 2017, 구현 언어는 C++이다.
 
